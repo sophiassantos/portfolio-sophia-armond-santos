@@ -41,7 +41,7 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 ### 📂 Portfólio de Projetos
  
 #### 🗃️ Modelagem de Banco de Dados
-| Projeto | Descrição | Link |
+| Engenharia Reversa | Projeto de um site reestruturado atráves de prompts para IA | https://github.com/sophiassantos/CODEARMOND-Engenharia-Reversa |
 | :--- | :--- | :---: |
 | **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
  
