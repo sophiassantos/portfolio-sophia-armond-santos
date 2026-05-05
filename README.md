@@ -40,11 +40,8 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
-| Engenharia Reversa | Aplicatico funcipnal reconstruido a partir da observação de sua interface externa, sem visualizar código fonte original ou fornecer o link para IA. | https://github.com/sophiassantos/CODEARMOND-Engenharia-Reversa |
- 
 #### 🤖 Inteligência Artificial
-| Projeto | Descrição | Link |
+| Engenharia Reversa | Aplicatico funcional reconstruido a partir da observação de sua interface externa, sem visualizar código fonte original ou fornecer o link para IA. | [Link](https://github.com/sophiassantos/CODEARMOND-Engenharia-Reversa) |
 | :--- | :--- | :---: |
 | **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
  
