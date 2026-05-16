@@ -46,23 +46,53 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 
 <tr>
 <td><b>SM1 - A Corrida do Prompt</b></td>
-<td>Modelagem ER e Scripts SQL para uma instituição de ensino.</td>
+<td>Investigação de estratégias de prompting para melhorar a comunicação com modelos de linguagem.</td>
 <td><a href="#">Ver Projeto</a></td>
 </tr>
 
 <tr>
-<td><b>Engenharia Reversa</b></td>
-<td>Reconstrução de um aplicativo web a partir da análise de sua interface, utilizando engenharia reversa e ferramentas de IA.</td>
+<td><b>SM2 - Laboratório de Classificação Visual</b></td>
+<td>Utilização do Teachable Machine para treinar um modelo de aprendizado de máquina.</td>
+<td><a href="#">Ver Projeto</a></td>
+</tr>
+
+<tr>
+<td><b>SM3 - Batalha de Modelos & Engenharia de Prompt (XML)</b></td>
+<td>Análise comparativa entre modelos de IA e aplicação avançada de XML na organização de prompts.</td>
+<td><a href="#">Ver Projeto</a></td>
+</tr>
+
+<tr>
+<td><b>SM4 - Engenharia Reversa</b></td>
+<td>Estudo e documentação reversa de sistemas e fluxos de software.</td>
+<td><a href="#">Ver Projeto</a></td>
+</tr>
+
+<tr>
+<td><b>SM5 - Do Clone ao MVP+</b></td>
+<td>Desenvolvimento de um produto digital, iniciando com um clone e avançando até um MVP viável.</td>
+<td><a href="#">Ver Projeto</a></td>
+</tr>
+
+<tr>
+<td><b>SM6 - Engenharia de Software e IA com Bubble.io</b></td>
+<td>Construção de aplicativos por meio de ferramentas no-code com integração de inteligência artificial.</td>
+<td><a href="#">Ver Projeto</a></td>
+</tr>
+
+<tr>
+<td><b>SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi</b></td>
+<td>Desenvolvimento de um aplicativo de videoconferência utilizando Manus AI e a plataforma Jitsi.</td>
+<td><a href="#">Ver Projeto</a></td>
+</tr>
+
+<tr>
+<td><b>SM8 - Criação de Músicas com Suno IA</b></td>
+<td>Criação de músicas com Inteligência Artificial.</td>
 <td><a href="#">Ver Projeto</a></td>
 </tr>
 
 </table>
-
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **SM1 - A Corrida do Prompt** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
-| Engenharia Reversa  |Reconstrução de um aplicativo web a partir da análise de sua interface, utilizando engenharia reversa e ferramentas de IA para replicar funcionalidades, lógica de negócio e estrutura visual sem acesso ao código-fonte original. |[Ver Projeto](https://github.com/sophiassantos/CODEARMOND-Engenharia-Reversa)  |
-| :--- | :--- | :---: |
  
 ---
 
