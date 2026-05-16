@@ -47,7 +47,7 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 <tr>
 <td><b>SM1 - A Corrida do Prompt</b></td>
 <td>Investigação de estratégias de prompting para melhorar a comunicação com modelos de linguagem.</td>
-<td><a href="#">Ver Projeto</a></td>
+<td><a href="https://github.com/sophiassantos/corrida-do-prompt/tree/main">Ver Projeto</a></td>
 </tr>
 
 <tr>
